@@ -25,6 +25,18 @@
     font-weight: 300;
     letter-spacing: 10px;
 }
-.panel{
+.popup {
     display: none;
+    padding: 15px;
+    background: #fff;
+    border-radius: 5px;
+    width: 400px;
+    position: relative;
+}
+.content{
+    text-align: justify;
+    margin: 20px 0;
+}
+.imagen{
+    width: 100%;
 }
